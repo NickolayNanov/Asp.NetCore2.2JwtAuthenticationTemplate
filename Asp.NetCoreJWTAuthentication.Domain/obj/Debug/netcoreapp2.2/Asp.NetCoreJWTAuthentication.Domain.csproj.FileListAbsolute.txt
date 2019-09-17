@@ -1,0 +1,12 @@
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\bin\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.deps.json
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\bin\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.dll
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\bin\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.pdb
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.csprojAssemblyReference.cache
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.csproj.CoreCompileInputs.cache
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.AssemblyInfoInputs.cache
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.AssemblyInfo.cs
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.csproj.CopyComplete
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.dll
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Domain\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Domain.pdb

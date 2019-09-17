@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Services\\Asp.NetCoreJWTAuthentication.Services.csproj": {}
+  },
+  "projects": {
+    "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Domain\\Asp.NetCoreJWTAuthentication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Domain\\Asp.NetCoreJWTAuthentication.Domain.csproj",
+        "projectName": "Asp.NetCoreJWTAuthentication.Domain",
+        "projectPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Domain\\Asp.NetCoreJWTAuthentication.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+        "outputPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Models\\Asp.NetCoreJWTAuthentication.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Models\\Asp.NetCoreJWTAuthentication.Models.csproj",
+        "projectName": "Asp.NetCoreJWTAuthentication.Models",
+        "projectPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Models\\Asp.NetCoreJWTAuthentication.Models.csproj",
+        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+        "outputPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Services\\Asp.NetCoreJWTAuthentication.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Services\\Asp.NetCoreJWTAuthentication.Services.csproj",
+        "projectName": "Asp.NetCoreJWTAuthentication.Services",
+        "projectPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Services\\Asp.NetCoreJWTAuthentication.Services.csproj",
+        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+        "outputPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Domain\\Asp.NetCoreJWTAuthentication.Domain.csproj": {
+                "projectPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Domain\\Asp.NetCoreJWTAuthentication.Domain.csproj"
+              },
+              "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Models\\Asp.NetCoreJWTAuthentication.Models.csproj": {
+                "projectPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Models\\Asp.NetCoreJWTAuthentication.Models.csproj"
+              },
+              "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Shared\\Asp.NetCoreJWTAuthentication.Shared.csproj": {
+                "projectPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Shared\\Asp.NetCoreJWTAuthentication.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Shared\\Asp.NetCoreJWTAuthentication.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Shared\\Asp.NetCoreJWTAuthentication.Shared.csproj",
+        "projectName": "Asp.NetCoreJWTAuthentication.Shared",
+        "projectPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Shared\\Asp.NetCoreJWTAuthentication.Shared.csproj",
+        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+        "outputPath": "E:\\Нова папка\\Asp.NetCoreJWTAuthenticationServer\\Asp.NetCoreJWTAuthentication.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\bin\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.deps.json
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\bin\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.dll
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\bin\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.pdb
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.csprojAssemblyReference.cache
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.csproj.CoreCompileInputs.cache
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.AssemblyInfoInputs.cache
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.AssemblyInfo.cs
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.dll
+E:\Нова папка\Asp.NetCoreJWTAuthenticationServer\Asp.NetCoreJWTAuthentication.Shared\obj\Debug\netcoreapp2.2\Asp.NetCoreJWTAuthentication.Shared.pdb
